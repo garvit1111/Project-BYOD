@@ -5,10 +5,10 @@ Here we have calculated our own income,savings and expenses and presented an int
 We have deducted several insights by using business intelligence, 
 The basic planning-plotting and roadmap is given in powerpoint presentation and pdf file.
 
-Project Goals--
-1.Learn Power BI and data analytics.
-2.Embed data analytics into daily life.
-3.Financial Literacy/discipline at an early age.
+Project Goals-- 
+1.Learn Power BI and data analytics. 
+2.Embed data analytics into daily life. 
+3.Financial Literacy/discipline at an early age. 
 
 Questions to be answered--
 1.What is my net worth?
